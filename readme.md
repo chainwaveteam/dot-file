@@ -6,8 +6,8 @@
 
 ```
 
-            .-/+oossssoo+/-.               julien@linux 
-        `:+ssssssssssssssssss+:`           ------------ 
+            .-/+oossssoo+/-.                
+        `:+ssssssssssssssssss+:`           
       -+ssssssssssssssssssyyssss+-         OS: Ubuntu 20.04.2 LTS x86_64 
     .ossssssssssssssssssdMMMNysssso.       Kernel: 5.4.0-66-generic 
    /ssssssssssshdmmNNmmyNMMMMhssssss/      Uptime: 14 hours, 40 mins 
